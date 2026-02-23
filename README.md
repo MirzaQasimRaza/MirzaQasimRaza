@@ -43,7 +43,7 @@ I'm a Computer Science student currently in my **5th semester**, passionate abou
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-qasim-raza-a203423b0/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/qasim.raza.9659/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mirzaqasimraza79@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mirzaqasimraza79@gmail.com)
 
 ## 📊 GitHub Stats
 
