@@ -44,6 +44,6 @@ I'm a Computer Science student currently in my **5th semester**, passionate abou
 
 ## 📊 GitHub Stats
 
-![Mirza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirzaQasimRaza&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Mirza's GitHub Stats](https://streak-stats.demolab.com?user=MirzaQasimRaza&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaQasimRaza&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaQasimRaza&layout=compact&theme=tokyonight&hide_border=true)
