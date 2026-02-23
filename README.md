@@ -33,6 +33,7 @@ I'm a Computer Science student currently in my **5th semester**, passionate abou
 
 ## 🔭 What I'm Up To
 
+- 🛒 Built a **Single Page E-Commerce Tech Website** using HTML, CSS & JavaScript
 - 🌦️ Built a **Weather App** using HTML, CSS & JavaScript
 - 🚀 Practicing JavaScript through structured courses and real projects
 - 📚 Exploring **React** to build modern, interactive UIs
